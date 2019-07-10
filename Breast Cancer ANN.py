@@ -1,7 +1,23 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+plt.style.use('ggplot')
+plt.figure(figsize=(5,5))
+import warnings
+warnings.filterwarnings('ignore')
 import keras 
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import Dropout
+from sklearn.model_selection import train_test_split
+from datetime import datetime as dt
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import classification_report
+from sklearn.metrics import precision_score
+from sklearn.metrics import recall_score
+from sklearn.metrics import f1_score
+from sklearn.metrics import accuracy_score
 
 # importing required modules 
 from zipfile import ZipFile 
