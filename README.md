@@ -7,3 +7,7 @@ This database is also available through the UW CS ftp server: ftp ftp.cs.wisc.ed
 
 Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
+**Attribute Information:**
+
+*1) ID number 2) Diagnosis (M = malignant, B = benign) 3-32)*
+
