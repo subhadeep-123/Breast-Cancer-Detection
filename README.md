@@ -22,3 +22,20 @@ All feature values are recoded with four significant digits.
 Missing attribute values: none
 
 Class distribution: 357 benign, 212 malignant
+
+Links To the Kaggle Dataset:
+* https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
+
+Algorithm                  | Accuracy
+-----------                | --------
+Logistic Regression        |: 95.0 %
+KNN Classifier             |: 94.0 %
+Linear SVC                 |: 95.0 %
+Gaussian Kernel SVC        |: 59.0 %
+Decision Trees Classifier  |: 90.0 %
+Random Forest Classifier   |: 96.0 %
+BernoulliNB Classifier     |: 59.0 %
+MultinomialNB Classifier   |: 90.0 %
+Artificial Neural Network  |: 95.0 %
+
