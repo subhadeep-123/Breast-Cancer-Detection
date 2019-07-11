@@ -38,4 +38,4 @@ Random Forest Classifier   |: 96.0 %
 BernoulliNB Classifier     |: 59.0 %
 MultinomialNB Classifier   |: 90.0 %
 Artificial Neural Network  |: 95.0 %
-XgBoost Classifier         |: 98.2 %
+XgBoost Classifier         |: 98.0 %
